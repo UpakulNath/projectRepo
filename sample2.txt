@@ -1,3 +1,5 @@
 initial text in sample2
 
 First change added
+
+inside the develop branch
